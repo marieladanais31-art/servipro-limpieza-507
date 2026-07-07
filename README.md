@@ -1,6 +1,6 @@
 # Servipro Limpieza 507
 
-Sitio web comercial para Servipro Limpieza 507, enfocado en empresas, bodegas, proyectos e instituciones en Panamá.
+Sitio web comercial para Servipro Limpieza 507, enfocado en limpieza industrial, silos, graneleros, bodegas, espacios confinados y operaciones logísticas en Panamá.
 
 ## Comandos
 
@@ -12,11 +12,7 @@ npm run build
 
 ## Contacto
 
-Los botones de WhatsApp están listos con un mensaje de cotización. Falta sustituir el enlace por el número real de ventas:
-
-```ts
-const whatsappHref = "https://wa.me/507TU_NUMERO?text=...";
-```
+Los botones de WhatsApp apuntan a `+507 6995-0464` con mensaje de cotización precargado.
 
 ## GitHub y Hostinger
 

@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Servipro Limpieza 507 | Limpieza profesional en Panamá",
+  title: "Servipro Limpieza 507 | Limpieza industrial en Panamá",
   description:
-    "Soluciones integrales de limpieza, mantenimiento e higiene para empresas, bodegas, proyectos e instituciones en Panamá.",
+    "Limpieza industrial para silos, graneleros, bodegas, espacios confinados y operaciones logísticas en Panamá.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
